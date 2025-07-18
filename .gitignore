@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor specific files
+.idea/
+.vscode/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Configuration files with secrets (if you have them)
+config.ini 
